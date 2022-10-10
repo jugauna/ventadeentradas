@@ -1,0 +1,44 @@
+[
+  {
+    "precio": 5000,
+    "id": 1,
+    "title": "Básquet Argentina",
+    "thumbnailUrl": "./img/basquet.jpg"
+  },
+  {
+    "precio": 3000,
+    "id": 2,
+    "title": "Ciro y Los Persas",
+    "thumbnailUrl": "./img/ciro2.webp"
+  },
+  {
+    "precio": 4000,
+    "id": 3,
+    "title": "COLDPLAY",
+    "thumbnailUrl": "./img/coldplay.jpg"
+  },
+  {
+    "precio": 4500,
+    "id": 4,
+    "title": "DUA LIPA",
+    "thumbnailUrl": "./img/dualipa.jpg"
+  },
+  {
+    "precio": 6000,
+    "id": 5,
+    "title": "Fútbol Argentina",
+    "thumbnailUrl": "./img/futbol.png"
+  },
+  {
+    "precio": 6500,
+    "id": 6,
+    "title": "METALLICA",
+    "thumbnailUrl": "./img/metallica.png"
+  },
+  {
+    "precio": 8000,
+    "id": 7,
+    "title": "SODA STEREO",
+    "thumbnailUrl": "./img/septimodia.jpg"
+  }
+]
